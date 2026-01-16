@@ -198,3 +198,10 @@ For detailed information, please visit the official website:https://www.sensing-
 
 For additional technical support, please contact :Technical Support<<Support@sensing-world.com>>
 
+### 6、version
+
+version number：V3.1.9
+
+date：2026-01-16
+
+Main modifications：Optimize the brick-rescuing logic for GW5300。
